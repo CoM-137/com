@@ -1,1 +1,31 @@
-ref: refs/heads/main
+0000000000000000000000000000000000000000 6847a7f317df79df04ed920b6a62f53df30850d9 CoM137 <51875516-CoM137@users.noreply.replit.com> 1766676269 +0000	commit (initial): Initial commit
+6847a7f317df79df04ed920b6a62f53df30850d9 3005b6e1dba57d0261743f41fab54fc81b0fdb26 CoM137 <51875516-CoM137@users.noreply.replit.com> 1766676278 +0000	commit: Extracted stack files
+3005b6e1dba57d0261743f41fab54fc81b0fdb26 2d2e0ac3b7418d10a43b34cee2292f0f828e354c CoM137 <51875516-CoM137@users.noreply.replit.com> 1766676418 +0000	commit: Add portfolio website for Collegium of Minds community
+2d2e0ac3b7418d10a43b34cee2292f0f828e354c 223479a6cd19eebbfb301ecef1509e14279f1335 CoM137 <51875516-CoM137@users.noreply.replit.com> 1766676715 +0000	commit: Enhance website appearance with deeper colors and subtle textures
+223479a6cd19eebbfb301ecef1509e14279f1335 7156d2a4817f24cd419b01a7cd4789df930e0aaf CoM137 <51875516-CoM137@users.noreply.replit.com> 1766676823 +0000	commit: Update website design with new fonts and animated background
+7156d2a4817f24cd419b01a7cd4789df930e0aaf 74ec297f3239a1f42c63680df631f34af251deed CoM137 <51875516-CoM137@users.noreply.replit.com> 1766676869 +0000	commit: Add project documentation explaining the architecture and setup
+74ec297f3239a1f42c63680df631f34af251deed b13b86204947d82aaab2cb3517a66f72c7cae3ee CoM137 <51875516-CoM137@users.noreply.replit.com> 1766677046 +0000	commit: Improve fluid background animation for a more dynamic visual effect
+b13b86204947d82aaab2cb3517a66f72c7cae3ee b5c3bbaaeaa319ac63324d34e2ad35a261ecf971 CoM137 <51875516-CoM137@users.noreply.replit.com> 1766677213 +0000	commit: Update website design to incorporate periodic table theme
+b5c3bbaaeaa319ac63324d34e2ad35a261ecf971 7441f0847924b611d28317d56be58982b4fe8ffe CoM137 <51875516-CoM137@users.noreply.replit.com> 1766677232 +0000	commit: Saved progress at the end of the loop
+7441f0847924b611d28317d56be58982b4fe8ffe 36a86108119ffc42cdd0afd4213f68cb10d1ad59 CoM137 <51875516-CoM137@users.noreply.replit.com> 1766677434 +0000	commit: Update color palette for a more academic and varied theme
+36a86108119ffc42cdd0afd4213f68cb10d1ad59 8a29013e51b7fd6088c121c81ebde04cfab76d28 CoM137 <51875516-CoM137@users.noreply.replit.com> 1766677520 +0000	commit: Update color palette to match the new brand aesthetic
+8a29013e51b7fd6088c121c81ebde04cfab76d28 ed0d504debfae688b1504aced31fc45258776835 CoM137 <51875516-CoM137@users.noreply.replit.com> 1766677587 +0000	commit: Add two new cards for community website and guidelines
+ed0d504debfae688b1504aced31fc45258776835 5ea51ed937c69bbae7f64d94f6a51d3bb2bbb6a0 CoM137 <51875516-CoM137@users.noreply.replit.com> 1766677667 +0000	commit: Update website to use the specified color palette across all elements
+5ea51ed937c69bbae7f64d94f6a51d3bb2bbb6a0 311a1834501d9ae58da13f22105c1a12dfd3c3ca CoM137 <51875516-CoM137@users.noreply.replit.com> 1766677936 +0000	commit: Update card styles to reflect elemental periodic table theme
+311a1834501d9ae58da13f22105c1a12dfd3c3ca 960184e9bc4fd739906ac8ab20a51528b9929bef CoM137 <51875516-CoM137@users.noreply.replit.com> 1766678043 +0000	commit: Update website styling and content to match color palette
+960184e9bc4fd739906ac8ab20a51528b9929bef 4d7c3a708dc8bfa833eb06f2a5fc56261cc8c378 CoM137 <51875516-CoM137@users.noreply.replit.com> 1766678114 +0000	commit: Add dark mode toggle and improve social card icon centering
+4d7c3a708dc8bfa833eb06f2a5fc56261cc8c378 c5a86d855726f46763ea6a6b14dbc88361c8a020 CoM137 <51875516-CoM137@users.noreply.replit.com> 1766678210 +0000	commit: Fix theme toggle and card icon display issues
+c5a86d855726f46763ea6a6b14dbc88361c8a020 93be2aec56cf91c0cc5e689e5d7a64d533cc7784 CoM137 <51875516-CoM137@users.noreply.replit.com> 1766678228 +0000	commit: Saved progress at the end of the loop
+93be2aec56cf91c0cc5e689e5d7a64d533cc7784 50839ca62f93e1b7d7e83097fb6564e52a197637 CoM137 <51875516-CoM137@users.noreply.replit.com> 1766679354 +0000	commit: Update website links, replace owl icon with logo, and update philosophy emoji
+50839ca62f93e1b7d7e83097fb6564e52a197637 02bdd724938ac1cec7b8e3bcec8f285bad828fa0 CoM137 <51875516-CoM137@users.noreply.replit.com> 1766679371 +0000	commit: Saved progress at the end of the loop
+02bdd724938ac1cec7b8e3bcec8f285bad828fa0 b88447c19b879c78c3a82568dd879603a973ef4c CoM137 <51875516-CoM137@users.noreply.replit.com> 1766687704 +0000	commit: Published your App
+b88447c19b879c78c3a82568dd879603a973ef4c 6aee184f8f37b7bd31e0f397af79ba7bc0497b86 CoM137 <51875516-CoM137@users.noreply.replit.com> 1766731528 +0000	commit: Update community links, rename tiles, and add a new tagline
+6aee184f8f37b7bd31e0f397af79ba7bc0497b86 98528270f3f9cf2f37e068f47bdc5af4cf35d70e CoM137 <51875516-CoM137@users.noreply.replit.com> 1766731545 +0000	commit: Saved progress at the end of the loop
+98528270f3f9cf2f37e068f47bdc5af4cf35d70e 9ee2d26e1d0645ccdf914032ff1a9f4142ac3c40 CoM137 <51875516-CoM137@users.noreply.replit.com> 1766731911 +0000	commit: Restructure website layout and card numbering for a periodic table aesthetic
+9ee2d26e1d0645ccdf914032ff1a9f4142ac3c40 5c992b872fdf5b5f0cda5d701b8e2fc9db73ed13 CoM137 <51875516-CoM137@users.noreply.replit.com> 1766731931 +0000	commit: Saved progress at the end of the loop
+5c992b872fdf5b5f0cda5d701b8e2fc9db73ed13 1c52203853b26706a5ed9030650bc4d82c8e1b20 CoM137 <51875516-CoM137@users.noreply.replit.com> 1766732162 +0000	commit: Rearrange website cards and adjust YouTube card color
+1c52203853b26706a5ed9030650bc4d82c8e1b20 db5cfdea9cf7d41c2c76ad5f3c44b207e39edcd5 CoM137 <51875516-CoM137@users.noreply.replit.com> 1766732366 +0000	commit: Saved progress at the end of the loop
+db5cfdea9cf7d41c2c76ad5f3c44b207e39edcd5 920d53521f303ae09e118174b39908e00d8907a5 CoM137 <51875516-CoM137@users.noreply.replit.com> 1766732662 +0000	commit: Published your App
+920d53521f303ae09e118174b39908e00d8907a5 a6f82efdf098e1ddee6c3da9aaa7b85a915c5a44 CoM137 <51875516-CoM137@users.noreply.replit.com> 1766733590 +0000	commit: Center website cards for better mobile viewing experience
+a6f82efdf098e1ddee6c3da9aaa7b85a915c5a44 8725ec16718001da5228234ae961e07750837494 CoM137 <51875516-CoM137@users.noreply.replit.com> 1766733615 +0000	commit: Saved progress at the end of the loop
+8725ec16718001da5228234ae961e07750837494 1ca67cf91a7e74b74e11c2a3d7e324cc887576e1 CoM137 <51875516-CoM137@users.noreply.replit.com> 1766733741 +0000	commit: Published your App
